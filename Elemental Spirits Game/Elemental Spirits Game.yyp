@@ -35,6 +35,7 @@
   "name":"Elemental Spirits Game",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprite_player","path":"sprites/sprite_player/sprite_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
