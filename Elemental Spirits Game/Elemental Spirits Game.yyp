@@ -30,12 +30,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Elemental Spirits Game",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprite_player","path":"sprites/sprite_player/sprite_player.yy",},},
+    {"id":{"name":"sprite_block","path":"sprites/sprite_block/sprite_block.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
