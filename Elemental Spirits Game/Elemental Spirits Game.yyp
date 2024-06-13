@@ -34,7 +34,10 @@
   },
   "name":"Elemental Spirits Game",
   "resources":[
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprite_block","path":"sprites/sprite_block/sprite_block.yy",},},
     {"id":{"name":"sprite_player","path":"sprites/sprite_player/sprite_player.yy",},},
   ],
   "resourceType":"GMProject",
