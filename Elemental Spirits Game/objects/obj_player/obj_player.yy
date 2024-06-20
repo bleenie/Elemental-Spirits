@@ -2,8 +2,13 @@
   "$GMObject":"",
   "%Name":"obj_player",
   "eventList":[
+<<<<<<< Updated upstream
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+=======
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
   ],
   "managed":true,
   "name":"obj_player",
@@ -31,8 +36,13 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< Updated upstream
     "name":"sprite_player",
     "path":"sprites/sprite_player/sprite_player.yy",
+=======
+    "name":"Gost_Sprite",
+    "path":"sprites/Gost_Sprite/Gost_Sprite.yy",
+>>>>>>> Stashed changes
   },
   "spriteMaskId":null,
   "visible":true,
