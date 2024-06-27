@@ -34,6 +34,9 @@
     "name":"Gost_Sprite",
     "path":"sprites/Gost_Sprite/Gost_Sprite.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Gost_Jumping_Sprite",
+    "path":"sprites/Gost_Jumping_Sprite/Gost_Jumping_Sprite.yy",
+  },
   "visible":true,
 }

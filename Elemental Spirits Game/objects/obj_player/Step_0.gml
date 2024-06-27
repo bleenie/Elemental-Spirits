@@ -10,7 +10,7 @@
  var _move = key_right - key_left; 
  
  hsp = _move * walksp;
- vsp = vsp +grv;
+ vsp = vsp + grv;
  
  if(place_meeting(x,y+1,obj_wall)) && (key_jump)
  {
@@ -42,4 +42,10 @@ if (place_meeting(x,y+vsp,obj_wall))
 	vsp = 0;
 }
   
- y = y + vsp;
+y = y + vsp;
+ 
+ // Animation Sprites
+ 
+
+ 
+ 
